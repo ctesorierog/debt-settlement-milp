@@ -1,0 +1,106 @@
+nump,total,nd,nc,usarLimite,K,factible,status,objval,runtime,numTransferencias,maxTransDeudor,n,semilla,modelo
+6,16793,3,3,0,NaN,1,integer optimal solution,5,0.0402297,5,3,6,1,base
+6,21979,2,4,0,NaN,1,integer optimal solution,5,0.0281011,5,4,6,2,base
+6,38502,3,3,0,NaN,1,integer optimal solution,5,0.0331323,5,3,6,3,base
+6,41159,2,4,0,NaN,1,integer optimal solution,5,0.0328977,5,4,6,4,base
+6,33186,3,3,0,NaN,1,integer optimal solution,5,0.0364317,5,2,6,5,base
+8,22112,4,4,0,NaN,1,integer optimal solution,7,0.0427258,7,3,8,1,base
+8,30219,3,5,0,NaN,1,integer optimal solution,7,0.0475241,7,5,8,2,base
+8,41831,4,4,0,NaN,1,integer optimal solution,7,0.0408928,7,3,8,3,base
+8,50985,3,5,0,NaN,1,integer optimal solution,7,0.0481892,7,4,8,4,base
+8,46031,4,4,0,NaN,1,integer optimal solution,7,0.0413115,7,3,8,5,base
+10,31469,5,5,0,NaN,1,integer optimal solution,9,0.0554861,9,4,10,1,base
+10,35885,5,5,0,NaN,1,integer optimal solution,9,0.1024122,9,3,10,2,base
+10,46755,5,5,0,NaN,1,integer optimal solution,9,0.2146569,9,3,10,3,base
+10,57863,5,5,0,NaN,1,integer optimal solution,9,0.0537539,9,3,10,4,base
+10,50878,5,5,0,NaN,1,integer optimal solution,9,0.0491539,9,3,10,5,base
+12,42514,6,6,0,NaN,1,integer optimal solution,10,0.0743775,10,3,12,1,base
+12,47389,5,7,0,NaN,1,integer optimal solution,11,0.472169,11,5,12,2,base
+12,51623,5,7,0,NaN,1,integer optimal solution,10,0.1332331,10,4,12,3,base
+12,67634,6,6,0,NaN,1,integer optimal solution,11,0.5002487,11,3,12,4,base
+12,59071,6,6,0,NaN,1,integer optimal solution,11,0.4747993,11,3,12,5,base
+14,53341,7,7,0,NaN,1,integer optimal solution,12,0.3147694,12,2,14,1,base
+14,53871,6,8,0,NaN,1,integer optimal solution,12,1.0090646,12,4,14,2,base
+14,60900,6,8,0,NaN,1,integer optimal solution,13,3.0796562,13,4,14,3,base
+14,86099,6,8,0,NaN,1,integer optimal solution,13,50.9238263,13,4,14,4,base
+14,65069,7,7,0,NaN,1,integer optimal solution,13,7.3788116,13,3,14,5,base
+16,60320,8,8,0,NaN,1,integer optimal solution,13,1.0421197,13,3,16,1,base
+16,63570,7,9,0,NaN,1,integer optimal solution,14,22.6875802,14,3,16,2,base
+16,73572,8,8,0,NaN,1,integer optimal solution,14,9.5979337,14,2,16,3,base
+16,93712,7,9,0,NaN,1,integer optimal solution,14,36.9975041,14,3,16,4,base
+16,76610,8,8,0,NaN,1,integer optimal solution,14,20.4536273,14,3,16,5,base
+17,64494,8,9,0,NaN,1,integer optimal solution,15,50.9428147,15,3,17,1,base
+17,72110,8,9,0,NaN,1,integer optimal solution,15,36.2438725,15,3,17,2,base
+17,73812,7,10,0,NaN,1,integer optimal solution,15,60.8469995,15,6,17,3,base
+17,93802,8,9,0,NaN,1,integer optimal solution,15,176.5269728,15,3,17,4,base
+17,80753,9,8,0,NaN,1,integer optimal solution,15,116.5867634,15,3,17,5,base
+6,16793,3,3,1,2,1,integer optimal solution,5,0.0384372,5,2,6,1,limite
+6,16793,3,3,1,3,1,integer optimal solution,5,0.0475832,5,3,6,1,limite
+6,21979,2,4,1,2,0,Reference to non-existent field 'x'.,NaN,0.0251884,NaN,NaN,6,2,limite
+6,21979,2,4,1,3,0,Reference to non-existent field 'x'.,NaN,0.0271665,NaN,NaN,6,2,limite
+6,38502,3,3,1,2,1,integer optimal solution,5,0.0424857,5,2,6,3,limite
+6,38502,3,3,1,3,1,integer optimal solution,5,0.0476682,5,3,6,3,limite
+6,41159,2,4,1,2,0,Reference to non-existent field 'x'.,NaN,0.0265268,NaN,NaN,6,4,limite
+6,41159,2,4,1,3,1,integer optimal solution,5,0.048855,5,3,6,4,limite
+6,33186,3,3,1,2,1,integer optimal solution,5,0.0519637,5,2,6,5,limite
+6,33186,3,3,1,3,1,integer optimal solution,5,0.0567294,5,2,6,5,limite
+8,22112,4,4,1,2,1,integer optimal solution,7,0.0568838,7,2,8,1,limite
+8,22112,4,4,1,3,1,integer optimal solution,7,0.0589908,7,2,8,1,limite
+8,30219,3,5,1,2,0,Reference to non-existent field 'x'.,NaN,0.0299544,NaN,NaN,8,2,limite
+8,30219,3,5,1,3,1,integer optimal solution,7,0.0570702,7,3,8,2,limite
+8,41831,4,4,1,2,1,integer optimal solution,7,0.0587583,7,2,8,3,limite
+8,41831,4,4,1,3,1,integer optimal solution,7,0.06241,7,3,8,3,limite
+8,50985,3,5,1,2,0,Reference to non-existent field 'x'.,NaN,0.0672109,NaN,NaN,8,4,limite
+8,50985,3,5,1,3,1,integer optimal solution,7,0.063898,7,3,8,4,limite
+8,46031,4,4,1,2,1,integer optimal solution,7,0.0565318,7,2,8,5,limite
+8,46031,4,4,1,3,1,integer optimal solution,7,0.0568014,7,2,8,5,limite
+10,31469,5,5,1,2,1,integer optimal solution,9,0.084729,9,2,10,1,limite
+10,31469,5,5,1,3,1,integer optimal solution,9,0.0709025,9,3,10,1,limite
+10,35885,5,5,1,2,1,integer optimal solution,9,0.0990744,9,2,10,2,limite
+10,35885,5,5,1,3,1,integer optimal solution,9,0.0819234,9,3,10,2,limite
+10,46755,5,5,1,2,1,integer optimal solution,9,0.070488,9,2,10,3,limite
+10,46755,5,5,1,3,1,integer optimal solution,9,0.0778282,9,3,10,3,limite
+10,57863,5,5,1,2,1,integer optimal solution,9,0.0713446,9,2,10,4,limite
+10,57863,5,5,1,3,1,integer optimal solution,9,0.0757652,9,3,10,4,limite
+10,50878,5,5,1,2,1,integer optimal solution,9,0.1564168,9,2,10,5,limite
+10,50878,5,5,1,3,1,integer optimal solution,9,0.1595383,9,3,10,5,limite
+12,42514,6,6,1,2,1,integer optimal solution,10,0.0795132,10,2,12,1,limite
+12,42514,6,6,1,3,1,integer optimal solution,10,0.0948534,10,3,12,1,limite
+12,47389,5,7,1,2,0,Reference to non-existent field 'x'.,NaN,0.0996288,NaN,NaN,12,2,limite
+12,47389,5,7,1,3,1,integer optimal solution,11,0.6542771,11,3,12,2,limite
+12,51623,5,7,1,2,0,Reference to non-existent field 'x'.,NaN,0.3067789,NaN,NaN,12,3,limite
+12,51623,5,7,1,3,1,integer optimal solution,10,0.1850141,10,3,12,3,limite
+12,67634,6,6,1,2,1,integer optimal solution,11,0.2643166,11,2,12,4,limite
+12,67634,6,6,1,3,1,integer optimal solution,11,0.942578,11,3,12,4,limite
+12,59071,6,6,1,2,1,integer optimal solution,11,0.2703896,11,2,12,5,limite
+12,59071,6,6,1,3,1,integer optimal solution,11,0.6311339,11,3,12,5,limite
+14,53341,7,7,1,2,1,integer optimal solution,12,0.3600284,12,2,14,1,limite
+14,53341,7,7,1,3,1,integer optimal solution,12,0.4916271,12,3,14,1,limite
+14,53871,6,8,1,2,1,integer optimal solution,12,0.9252195,12,2,14,2,limite
+14,53871,6,8,1,3,1,integer optimal solution,12,1.6140866,12,3,14,2,limite
+14,60900,6,8,1,2,0,Reference to non-existent field 'x'.,NaN,3.4681599,NaN,NaN,14,3,limite
+14,60900,6,8,1,3,1,integer optimal solution,13,5.3531218,13,3,14,3,limite
+14,86099,6,8,1,2,0,Reference to non-existent field 'x'.,NaN,2.6758356,NaN,NaN,14,4,limite
+14,86099,6,8,1,3,1,integer optimal solution,13,64.5588431,13,3,14,4,limite
+14,65069,7,7,1,2,1,integer optimal solution,13,5.1602634,13,2,14,5,limite
+14,65069,7,7,1,3,1,integer optimal solution,13,8.8581714,13,3,14,5,limite
+16,60320,8,8,1,2,1,integer optimal solution,13,1.2326064,13,2,16,1,limite
+16,60320,8,8,1,3,1,integer optimal solution,13,1.2924329,13,2,16,1,limite
+16,63570,7,9,1,2,1,integer optimal solution,14,3.4855352,14,2,16,2,limite
+16,63570,7,9,1,3,1,integer optimal solution,14,28.5703144,14,3,16,2,limite
+16,73572,8,8,1,2,1,integer optimal solution,14,3.6323697,14,2,16,3,limite
+16,73572,8,8,1,3,1,integer optimal solution,14,10.2055444,14,3,16,3,limite
+16,93712,7,9,1,2,1,integer optimal solution,14,4.7713672,14,2,16,4,limite
+16,93712,7,9,1,3,1,integer optimal solution,14,36.6366049,14,3,16,4,limite
+16,76610,8,8,1,2,1,integer optimal solution,14,20.0691676,14,2,16,5,limite
+16,76610,8,8,1,3,1,integer optimal solution,14,24.1005445,14,3,16,5,limite
+17,64494,8,9,1,2,1,integer optimal solution,15,23.370543,15,2,17,1,limite
+17,64494,8,9,1,3,1,integer optimal solution,15,104.0412313,15,3,17,1,limite
+17,72110,8,9,1,2,1,integer optimal solution,15,11.8797277,15,2,17,2,limite
+17,72110,8,9,1,3,1,integer optimal solution,15,49.5896499,15,3,17,2,limite
+17,73812,7,10,1,2,0,Reference to non-existent field 'x'.,NaN,25.5346027,NaN,NaN,17,3,limite
+17,73812,7,10,1,3,1,integer optimal solution,15,64.3655125,15,3,17,3,limite
+17,93802,8,9,1,2,1,integer optimal solution,15,59.7230148,15,2,17,4,limite
+17,93802,8,9,1,3,1,integer optimal solution,15,215.1361492,15,3,17,4,limite
+17,80753,9,8,1,2,1,integer optimal solution,15,75.2151908,15,2,17,5,limite
+17,80753,9,8,1,3,1,integer optimal solution,15,86.3934916,15,3,17,5,limite
